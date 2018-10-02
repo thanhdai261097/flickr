@@ -1,0 +1,35 @@
+.toggled {
+	h1 {
+		color:green;
+	}
+}
+h1 {
+  color: black;
+  cursor:pointer;
+}
+ul {
+	margin:0;
+	padding:0;
+}
+li {
+	list-style:none;
+	clear:both;
+	float:left;
+	margin: 20px 0;
+	padding:20px;
+	border: 1px solid #dedede;	
+
+	img {
+		float: left;
+		display: block;
+		clear: both
+	}
+}
+
+.delete-btn {
+	float:left;
+	clear:both;
+	display:block;
+	margin: 10px 0;
+}
+
